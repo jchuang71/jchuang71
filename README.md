@@ -1,3 +1,5 @@
+# Joey Chuang
+
 Hello, I'm Joey Chuang (He/Him), and you've reached my GitHub repository! I'm a student/worker studying Applied Computing at the University of Washington Bothell, with a minor in Business Administration and Economics.
 
 Some of my biggest passions lie in game and app development, analytics, and visual design.
